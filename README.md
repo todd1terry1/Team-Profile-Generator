@@ -13,5 +13,6 @@ Team_Profile-Generator is a Node.js command-line application that takes in infor
 * Inquirer
 
 ## Deployed Website
+https://todd1terry1.github.io/Team-Profile-Generator/
 
 ![Todd's Team-Profile Generator](Assets/images/team.png)
